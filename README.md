@@ -1,6 +1,6 @@
 # Jarvis Vision v1
 
-A real-time face recognition system built using OpenCV and InsightFace.
+A real-time face recognition system built using OpenCV and InsightFace as a part of making my own jarvis.
 
 ## Features
 
